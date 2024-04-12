@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9753269c.css",
+    "main.css": "/portfolio/static/css/main.0424d50a.css",
     "main.js": "/portfolio/static/js/main.56292886.js",
     "static/media/Spring Security.png": "/portfolio/static/media/Spring Security.dc96561f9cfaa1c4b6b6.png",
     "static/media/mysql.png": "/portfolio/static/media/mysql.603311e8c8a13a60306b.png",
@@ -24,11 +24,11 @@
     "static/media/mug-saucer-solid.svg": "/portfolio/static/media/mug-saucer-solid.f666b0d3bb2a9246a6afdd39fe1128a4.svg",
     "static/media/music-solid.svg": "/portfolio/static/media/music-solid.68b4d50a6d0f6a811888c087e262ca23.svg",
     "static/media/compass-solid.svg": "/portfolio/static/media/compass-solid.aee5c0b0f694179fb32e321c625c2660.svg",
-    "main.9753269c.css.map": "/portfolio/static/css/main.9753269c.css.map",
+    "main.0424d50a.css.map": "/portfolio/static/css/main.0424d50a.css.map",
     "main.56292886.js.map": "/portfolio/static/js/main.56292886.js.map"
   },
   "entrypoints": [
-    "static/css/main.9753269c.css",
+    "static/css/main.0424d50a.css",
     "static/js/main.56292886.js"
   ]
 }
