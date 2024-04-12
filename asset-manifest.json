@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9753269c.css",
-    "main.js": "/portfolio/static/js/main.fad447f4.js",
+    "main.js": "/portfolio/static/js/main.56292886.js",
     "static/media/Spring Security.png": "/portfolio/static/media/Spring Security.dc96561f9cfaa1c4b6b6.png",
-    "static/media/tdl.png": "/portfolio/static/media/tdl.51b16625c0d4e1aa45ec.png",
     "static/media/mysql.png": "/portfolio/static/media/mysql.603311e8c8a13a60306b.png",
     "static/media/mongodb.png": "/portfolio/static/media/mongodb.8a270d3d9ae95426acc8.png",
     "static/media/port.png": "/portfolio/static/media/port.b3e05af50151b5718195.png",
@@ -26,10 +25,10 @@
     "static/media/music-solid.svg": "/portfolio/static/media/music-solid.68b4d50a6d0f6a811888c087e262ca23.svg",
     "static/media/compass-solid.svg": "/portfolio/static/media/compass-solid.aee5c0b0f694179fb32e321c625c2660.svg",
     "main.9753269c.css.map": "/portfolio/static/css/main.9753269c.css.map",
-    "main.fad447f4.js.map": "/portfolio/static/js/main.fad447f4.js.map"
+    "main.56292886.js.map": "/portfolio/static/js/main.56292886.js.map"
   },
   "entrypoints": [
     "static/css/main.9753269c.css",
-    "static/js/main.fad447f4.js"
+    "static/js/main.56292886.js"
   ]
 }
