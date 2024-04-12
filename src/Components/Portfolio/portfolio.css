@@ -31,8 +31,3 @@
     border-radius: 19px;
     height: 10rem;
 }
-@media screen and (max-width:480px){
-    .portfolio{
-        height: 40vh;
-    }
-}
