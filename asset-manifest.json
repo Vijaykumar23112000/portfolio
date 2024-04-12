@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9753269c.css",
-    "main.js": "/portfolio/static/js/main.de11d828.js",
+    "main.js": "/portfolio/static/js/main.fad447f4.js",
     "static/media/Spring Security.png": "/portfolio/static/media/Spring Security.dc96561f9cfaa1c4b6b6.png",
     "static/media/tdl.png": "/portfolio/static/media/tdl.51b16625c0d4e1aa45ec.png",
     "static/media/mysql.png": "/portfolio/static/media/mysql.603311e8c8a13a60306b.png",
     "static/media/mongodb.png": "/portfolio/static/media/mongodb.8a270d3d9ae95426acc8.png",
     "static/media/port.png": "/portfolio/static/media/port.b3e05af50151b5718195.png",
     "static/media/vj.png": "/portfolio/static/media/vj.c015f5a033f770a85d82.png",
-    "static/media/portResume.pdf": "/portfolio/static/media/portResume.dca17c4d61353de33a3f.pdf",
+    "static/media/portfolio-cv.pdf": "/portfolio/static/media/portfolio-cv.b22a64c471481b466113.pdf",
     "static/media/glassesimoji.png": "/portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
     "static/media/thumbup.png": "/portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/humble.png": "/portfolio/static/media/humble.c8b32b53675e68978981.png",
@@ -26,10 +26,10 @@
     "static/media/music-solid.svg": "/portfolio/static/media/music-solid.68b4d50a6d0f6a811888c087e262ca23.svg",
     "static/media/compass-solid.svg": "/portfolio/static/media/compass-solid.aee5c0b0f694179fb32e321c625c2660.svg",
     "main.9753269c.css.map": "/portfolio/static/css/main.9753269c.css.map",
-    "main.de11d828.js.map": "/portfolio/static/js/main.de11d828.js.map"
+    "main.fad447f4.js.map": "/portfolio/static/js/main.fad447f4.js.map"
   },
   "entrypoints": [
     "static/css/main.9753269c.css",
-    "static/js/main.de11d828.js"
+    "static/js/main.fad447f4.js"
   ]
 }
